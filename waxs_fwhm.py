@@ -60,6 +60,7 @@ plt.text(data["Q"][FWHM_indicies[3].astype(int)+50], FWHM_indicies[1]*1.25, "FWH
 #     ANNOTATIONS      #
 ########################
 
+plt.title("WAXS scattering intensity")
 plt.xlabel("q $[\AA ^{-1}]$")
 plt.ylabel("Intensity $[A.U.]$")
 plt.legend(loc="upper left")
