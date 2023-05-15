@@ -2,7 +2,7 @@
 """
 Created on Thu May 11 22:07:41 2023
 
-@author: Tine
+@author: Tine Kalac
 """
 
 newlines=['Q\tI\n']
