@@ -2,7 +2,7 @@
 """
 Created on Thu May 11 22:04:33 2023
 
-@author: Tine
+@author: Tine Kalac
 """
 
 from matplotlib import pyplot as plt
